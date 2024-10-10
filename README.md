@@ -1,11 +1,8 @@
 # Crawlab
 
 <p>
-  <a href="https://github.com/crawlab-team/crawlab/actions/workflows/dockerpush.yml" target="_blank">
-    <img src="https://github.com/crawlab-team/crawlab/workflows/Docker/badge.svg">
-  </a>
-  <a href="https://hub.docker.com/r/tikazyq/crawlab" target="_blank">
-    <img src="https://img.shields.io/docker/pulls/tikazyq/crawlab?label=pulls&logo=docker">
+  <a href="https://github.com/crawlab-team/crawlab/actions/workflows/docker-crawlab.yml" target="_blank">
+    <img src="https://github.com/crawlab-team/crawlab/workflows/Docker%20Image%20CI:%20crawlab/badge.svg">
   </a>
   <a href="https://github.com/crawlab-team/crawlab/releases" target="_blank">
     <img src="https://img.shields.io/github/release/crawlab-team/crawlab.svg?logo=github">
@@ -30,7 +27,7 @@
 
 Golang-based distributed web crawler management platform, supporting various languages including Python, NodeJS, Go, Java, PHP and various web crawler frameworks including Scrapy, Puppeteer, Selenium.
 
-[Demo](https://demo-pro.crawlab.cn) | [Documentation](https://docs.crawlab.cn/en/)
+[Demo](https://demo.crawlab.cn) | [Documentation](https://docs.crawlab.cn/en/)
 
 ## Installation
 
@@ -257,11 +254,18 @@ Crawlab is easy to use, general enough to adapt spiders in any language and any 
   <img src="https://avatars3.githubusercontent.com/u/32983588?s=460&u=83082ddc0a3020279374b94cce70f1aebb220b3d&v=4" height="80">
 </a>
 
-## Community & Sponsorship
+## Supported by JetBrains
 
-If you feel Crawlab could benefit your daily work or your company, please add the author's Wechat account noting "Crawlab" to enter the discussion group. Or you scan the Alipay QR code below to give us a reward to upgrade our teamwork software or buy a coffee.
+<p align="center">
+  <a href="https://www.jetbrains.com" target="_blank">
+    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" height="360">
+  </a>
+</p>
+
+## Community
+
+If you feel Crawlab could benefit your daily work or your company, please add the author's Wechat account noting "Crawlab" to enter the discussion group.
 
 <p align="center">
     <img src="https://crawlab.oss-cn-hangzhou.aliyuncs.com/gitbook/qrcode.png" height="360">
-    <img src="https://crawlab.oss-cn-hangzhou.aliyuncs.com/gitbook/payment.jpg" height="360">
 </p>
